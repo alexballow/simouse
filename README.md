@@ -2,6 +2,8 @@
 
 Ce projet est une application Python qui empêche la mise en veille de l'ordinateur en simulant des activités utilisateur (mouvements de souris, clics, et frappes clavier). L'application dispose d'une interface graphique moderne et personnalisable.
 
+![image](https://github.com/user-attachments/assets/bcd0eb8b-9923-4e33-ab86-a85d97682afa)
+
 ## Fonctionnalités
 
 - **Mouvement de souris simulé :** La souris se déplace entre des coordonnées définies.
