@@ -98,4 +98,10 @@ Les contributions sont les bienvenues !
 
 Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
 
+## Crédits de l'icône
+
+L'icône utilisée dans ce projet est issue de [Icon-Icons](https://icon-icons.com/fr/icone/le-rat-la-souris-animal/85282) et créée par l'auteur **Vincent Le Moign**. Elle est distribuée sous la licence "Free for commercial use". Veuillez consulter leurs conditions d'utilisation pour plus d'informations.
+
+
+
 
